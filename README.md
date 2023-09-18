@@ -15,3 +15,7 @@ No segundo código, levamos nossa automação para a web. Utilizando o Selenium 
 Ambos os códigos são acompanhados de explicações detalhadas e dicas úteis para iniciantes e desenvolvedores experientes. Certifique-se de conferir os recursos mencionados durante o vídeo e os links para os códigos-fonte em nossa descrição.
 
 Se você deseja aprimorar suas habilidades de automação e construir bots eficazes, este vídeo é para você! Não se esqueça de se inscrever no canal, deixar seu like e compartilhar com outros entusiastas da programação. Fique ligado para mais tutoriais e dicas incríveis.
+
+## Bibliotecas:
+
+pip install undetected_chromedriver a_selenium_click_on_coords tesseractrapidfuzz mousekey fast_ctypes_screenshots PrettyColorPrinter
